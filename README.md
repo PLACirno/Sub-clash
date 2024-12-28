@@ -26,10 +26,10 @@ curl https://raw.githubusercontent.com/loohalh/Sub-clash/refs/heads/main/sub-cla
 - {name: 🇭🇰 HDY-Hk  | Hy2, type: hysteria2, server: 10.10.10.10, port: 5000, password:xxxxxxxxxxxxxxx, skip-cert-verify: true, sni: www.xxx.com, download-bandwidth: 100, upload-bandwidth: 100}
 
 # Reality
-# 1. tls 可不传，默认true
+# 1. tls可不传，默认true
 # 2. client-fingerprint可不传， 默认chrome
-# 3. network不传， 默认tcp
-# 4. tfo、skip-cert-verify不传， 默认false
+# 3. network可不传， 默认tcp
+# 4. tfo、skip-cert-verify可不传， 默认false
 # 5. flow可不传，默认xtls-rprx-vision-udp443
 - {name: 🇭🇰 HDY-HK  | Re, server: xxx.com, port: 50000, type: vless, uuid: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx, tls: true, client-fingerprint: chrome, servername: www.xxx.com, network: tcp, tfo: false, skip-cert-verify: false, flow: xtls-rprx-vision-udp443, reality-opts: {public-key: xxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxxx, short-id: xxxxxxxxxxx}}
 ```
