@@ -1,5 +1,5 @@
-- {name: 🇭🇰 HDY-HK  | Re, server: xxx.com, port: 50000, type: vless, uuid: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx,tls: true, client-fingerprint: chrome, servername: www.xxx.com, network: tcp, tfo: false, skip-cert-verify: false, flow: xtls-rprx-vision-udp443, reality-opts: {public-key: xxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxxx, short-id: xxxxxxxxxxx}}
-- {name: 🇭🇰 HDY-Hk  | Hy2, type: hysteria2, server: 10.10.10.10, port: 5000, password:xxxxxxxxxxxxxxx, skip-cert-verify: true, sni: www.xxx.com, download-bandwidth: 100, upload-bandwidth:100}
+- {name: 🇭🇰 HDY-HK  | Re, server: xxx.com, port: 50000, type: vless, uuid: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx, tls: true, client-fingerprint: chrome, servername: www.xxx.com, network: tcp, tfo: false, skip-cert-verify: false, flow: xtls-rprx-vision-udp443, reality-opts: {public-key: xxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxxx, short-id: xxxxxxxxxxx}}
+- {name: 🇭🇰 HDY-Hk  | Hy2, type: hysteria2, server: 10.10.10.10, port: 5000, password:xxxxxxxxxxxxxxx, skip-cert-verify: true, sni: www.xxx.com, download-bandwidth: 100, upload-bandwidth: 100}
 
 
 
