@@ -1,6 +1,8 @@
 # Sub-clash
 Hysteria2、Reality 节点转换Clash 配置文件
+
 适配clash Verge、openClash、Stash(不支持Reality)
+
 本地运行转换，绝对安全
 # 使用
 1、下载脚本
@@ -8,8 +10,11 @@ Hysteria2、Reality 节点转换Clash 配置文件
 curl https://raw.githubusercontent.com/loohalh/Sub-clash/refs/heads/main/sub-clash.sh -o sub-clash.sh && chmod +x sub-clash.sh
 ```
 2、创建节点配置文件
+
 创建文件：local.txt，也可以修改脚本LOCAL_FILE值指定文件
+
 参照example.local.txt模板获取节点对应内容填入，目前只支持Hysteria2和Reality
+
 注意：Stash不支持Reality，需要在Stash客户端使用，请剔除Reality节点
 
 ```
