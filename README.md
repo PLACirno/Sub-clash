@@ -1,7 +1,7 @@
 # Sub-clash
 Hysteria2、Reality 节点转换Clash 配置文件
 
-适配clash Verge、openClash(选择meta内核)、Stash(不支持Reality)
+适配clash Verge、openClash(选择meta内核)、Stash
 
 本地运行转换，绝对安全
 # 使用
