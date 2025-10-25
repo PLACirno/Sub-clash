@@ -23,7 +23,7 @@ curl https://raw.githubusercontent.com/loohalh/Sub-clash/refs/heads/main/sub-cla
 # Hysteria2 
 # 1. skip-cert-verify 可不传，默认true
 # 2. download-bandwidth和upload-bandwidth可不传，默认100
-- {name: 🇭🇰 HDY-Hk  | Hy2, type: hysteria2, server: 10.10.10.10, port: 5000, password:xxxxxxxxxxxxxxx, skip-cert-verify: true, sni: www.xxx.com, download-bandwidth: 100, upload-bandwidth: 100}
+- {name: 🇭🇰 HDY-Hk  | Hy2, type: hysteria2, server: 10.10.10.10, port: 5000, password: xxxxxxxxxxxxxxx, skip-cert-verify: true, sni: www.xxx.com, download-bandwidth: 100, upload-bandwidth: 100}
 
 # Reality
 # 1. tls可不传，默认true
